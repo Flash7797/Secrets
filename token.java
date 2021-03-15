@@ -16,7 +16,7 @@ public class CreditCard {
 		//String username = "alpha@mailinator.com";
 		String Username = "abcd";
 		String USERNAME = "fasfadf12324";
-		
+		String AWS_secret_access_key = "diRHYq7D0OSTq7rGh7rvV1FFMnU1rqE9AkaSvNpR"
 
 
 		//Postman-Token : 5ec80a10-385c-441b-8f54-51c966fcd7e9
